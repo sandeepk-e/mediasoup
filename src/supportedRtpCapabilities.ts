@@ -38,7 +38,7 @@ const supportedRtpCapabilities: RtpCapabilities =
 			kind                 : 'audio',
 			mimeType             : 'audio/PCMU',
 			preferredPayloadType : 0,
-			clockRate            : 8000,
+			clockRate            : 48000,
 			rtcpFeedback         :
 			[
 				{ type: 'transport-cc' }
